@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Product image placeholder">
+  <rect width="600" height="750" fill="#f3f4f6"/>
+  <path d="M300 300a45 45 0 1 0 0-90 45 45 0 0 0 0 90Zm-110 60 70-80 55 62 45-48 60 66v90H190v-90Z" fill="#d1d5db"/>
+  <text x="300" y="560" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" fill="#9ca3af">No image</text>
+</svg>
